@@ -18,7 +18,7 @@ I am an open-minded person; I am always looking for my shortcomings and trying t
 **About this site**
 
 The main purposes of this website are as follows:
-* Discuss the mathematics and the technical details of machine learning, deep learning, and
-statistics
-* Document the implementation of algorithms for solving real problems
-* Present my independent research projects
+* Discuss and document the mathematics and the technical details of machine learning,
+deep learning, and statistics.
+* Document the implementation of algorithms for solving real problems.
+* Present my independent research projects.
