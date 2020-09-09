@@ -51,4 +51,4 @@ scholarship , in the first two years when I was at Lanzhou Jiaotong University.
 Besides, I was also awarded some __province-level__ prizes.
 
 I won __the first place__ in __CUMCM__ (Contemporary Undergraduate Mathematical
-Contest in Modeling) in Gansu Province.
+Contest in Modeling) of Gansu Province.
