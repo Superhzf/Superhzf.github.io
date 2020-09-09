@@ -15,7 +15,7 @@ I worked as a __Senior Data Scientist__ at __[Earnest](earnest.com)__ at San
 Francisco, California. Here I developed end to end data science solutions for
 customers income verification which helped increase the auto-approval rate by
 __6%__. In addition, I analyzed, documented, and implemented more than forty
-legacy ETL jobs introducing new features of AWS Redshift. Writing programs using
+legacy __ETL__ jobs introducing new features of __AWS Redshift__. Writing programs using
 Python and SQL.
 
 Earnest is the affiliate of __[Navient Corption](https://navient.com/)__ which
