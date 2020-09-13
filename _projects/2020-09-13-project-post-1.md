@@ -2,6 +2,7 @@
 title: 'Home Credit Default Prediction Service'
 date: 2020-09-13
 permalink: /projects/2020/09/project-post-1/
+excerpt: "An end to end solution for the financial credit risk management<br/><img src='/images/fastapi.png'>"
 tags:
   - API Service
   - Data Science
