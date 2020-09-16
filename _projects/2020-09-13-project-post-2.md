@@ -17,6 +17,6 @@ Note that this project will always be under development. Therefore, the project 
 
 I implemented various algorithms from linear ones to non-linear ones, and from supervised learning to unsupervised learning using pure NumPy except set splitting functions and some metrics.
 
-In addition, I tried to add at least either one example or one unit test for each algorithm to test whether the algorithms work or not.
+In addition, I tried to add at least either **one example** or **one unit** test for each algorithm to test whether the algorithms work or not.
 
 If you are interested in more details about this project, please visit the [project github page](https://github.com/Superhzf/MLFromScratch)
