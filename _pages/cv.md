@@ -11,7 +11,7 @@ redirect_from:
 
 ## Career
 ### Earnest (May, 2019-March, 2020)
-I worked as a **Senior Data Scientist** at **[Earnest](earnest.com)** at San
+I worked as a **Senior Data Scientist** at **[Earnest](www.earnest.com)** at San
 Francisco, California. Here I developed end to end data science solutions for
 customers income verification which helped increase the auto-approval rate by
 **6%**. In addition, I analyzed, documented, and implemented more than forty
