@@ -27,7 +27,7 @@ I worked as a **Data Scientist** at **[IceKredit](http://www.icekredit.com/)**
 at Los Angeles, California. There I developed credit risk models that helped lenders
 reduce first payment default rate by more than **40%**. Besides, I developed a
 loan reporting and model monitoring system for IceKredit which **absolutely
-eliminated human interaction**. Finally, I also worked as a project manager
+eliminated human interaction**. Finally, I also worked as a **project manager**
 communicating and coordinating with customers and other vendors.
 
 IceKredit is a financial start-up headquartered in Shanghai, China. Since
