@@ -13,7 +13,9 @@ redirect_from:
 My name is Zefu Hu, and I am a data scientist. My research and engineering interests are mainly
 the applications of data science and machine learning techniques in the area of finance and risk management. While I spend numerous time on learning technical skills, I believe those skills are supposed to logically serve the business and solving real-life problems.
 
-I am an open-minded person; I am always looking for my shortcomings and trying to fix it. On the top of that, I'm interested in value investment, I believe the key to investment is not making profit but controlling risk. As the shortcut icon says, my exemplar in terms of career is Kobe Bryant, I admired him for his insane work ethics.
+I am an open-minded person; I am always looking for my shortcomings and trying to fix it. On the top of that, I'm interested in value investment, I believe the key to investment is not making profit but controlling risk.
+
+As the shortcut icon says, my exemplar in terms of career is Kobe Bryant, I admired him for his insane work ethics.
 
 **About this site**
 
