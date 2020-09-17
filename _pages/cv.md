@@ -24,7 +24,7 @@ have **the lowest default rate** among all the affiliates of Navient.
 
 ### IceKredit (July, 2015-May, 2017)
 I worked as a **Data Scientist** at **[IceKredit](http://www.icekredit.com/)**
-at Los Angeles, California. There I developed credit risk models help lenders
+at Los Angeles, California. There I developed credit risk models that helped lenders
 reduce first payment default rate by more than **40%**. Besides, I developed a
 loan reporting and model monitoring system for IceKredit which **absolutely
 eliminated human interaction**. Finally, I also worked as a project manager
@@ -47,8 +47,8 @@ Lanzhou Jiaotong University. There I did research on mathematical modeling and
 computer programming.
 
 I was awarded **the National Scholarship**, the highest recognition and
-scholarship , in the first two years when I was at Lanzhou Jiaotong University.
-Besides, I was also awarded some **province-level** prizes.
+scholarship issued by the Chinese government, in the first two years when I was at Lanzhou Jiaotong University.
+Besides, I was also considered as the **Outstanding Student** by the government of Gansu Province.
 
 I won **the first place** in **CUMCM** (Contemporary Undergraduate Mathematical
 Contest in Modeling) of Gansu Province.
