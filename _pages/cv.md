@@ -19,7 +19,8 @@ legacy **ETL** jobs introducing new features of **AWS Redshift**. Writing progra
 Python and SQL.
 
 Earnest is the affiliate of **[Navient Corporation](https://navient.com/)** which
-is the second largest student loan servicer in the US. Products sold by Earnest
+is the second largest student loan servicer in the US. Earnest is responsible for measuring
+the creditworthiness of loan applicants. Products sold through Earnest
 have **the lowest default rate** among all the affiliates of Navient.
 
 ### IceKredit (July, 2015-May, 2017)
